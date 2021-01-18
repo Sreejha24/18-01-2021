@@ -1,0 +1,358 @@
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.StaticWebAssets.xml
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.exe
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.deps.json
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.runtimeconfig.json
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.runtimeconfig.dev.json
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.pdb
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.Views.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.Views.pdb
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.AssemblyInfoInputs.cache
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.AssemblyInfo.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.csproj.CoreCompileInputs.cache
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.RazorAssemblyInfo.cache
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.RazorAssemblyInfo.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\staticwebassets\linq in mvc.StaticWebAssets.Manifest.cache
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\staticwebassets\linq in mvc.StaticWebAssets.xml
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\linq in mvc.styles.css
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.TagHelpers.input.cache
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.TagHelpers.output.cache
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.RazorCoreGenerate.cache
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.RazorTargetAssemblyInfo.cache
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.RazorTargetAssemblyInfo.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.Views.pdb
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.csproj.CopyComplete
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.pdb
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.genruntimeconfig.cache
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\karthik\Desktop\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.StaticWebAssets.xml
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\appsettings.json
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.exe
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.deps.json
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.runtimeconfig.json
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.runtimeconfig.dev.json
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.pdb
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.Views.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\linq in mvc.Views.pdb
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.csprojAssemblyReference.cache
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.AssemblyInfoInputs.cache
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.AssemblyInfo.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.csproj.CoreCompileInputs.cache
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.MvcApplicationPartsAssemblyInfo.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.MvcApplicationPartsAssemblyInfo.cache
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.RazorAssemblyInfo.cache
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.RazorAssemblyInfo.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\staticwebassets\linq in mvc.StaticWebAssets.Manifest.cache
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\staticwebassets\linq in mvc.StaticWebAssets.xml
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\linq in mvc.styles.css
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.TagHelpers.input.cache
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.TagHelpers.output.cache
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.RazorCoreGenerate.cache
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.RazorTargetAssemblyInfo.cache
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.RazorTargetAssemblyInfo.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.Views.pdb
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.csproj.CopyComplete
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.pdb
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\linq in mvc.genruntimeconfig.cache
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\OrderByName.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\OrderByPrice.cshtml.g.cs
+S:\Project(Tollplus)\linq in mvc\linq in mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\ShowAll.cshtml.g.cs
